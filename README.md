@@ -1,2 +1,6 @@
 # STM32_I2C_LCD
-Basically using PCF8574T module to communicate with lcd using I2C protocal on STM32F303RE
+
+
+
+#  PCF8754
+![DDRAM-OF-PCF8754](C:\Users\hoang\OneDrive\Hình ảnh\Saved Pictures\espi2clcd_3.jpg)
